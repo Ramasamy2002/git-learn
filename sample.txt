@@ -1,3 +1,3 @@
 hi there from the sample file 
 this is to check the branch merge conflict 
-hi there to all
+hi there to ramasamy
